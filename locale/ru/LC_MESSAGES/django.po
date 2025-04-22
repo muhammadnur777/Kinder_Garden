@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-22 09:56+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\templates\about.html:59 .\templates\index.html:112
+#: .\templates\index.html:249
+msgid "Biz haqimizda"
+msgstr "Про нас"
+
+#: .\templates\index.html:111
+msgid "Home"
+msgstr "Дом"
+
+#: .\templates\index.html:113
+msgid "Darslar"
+msgstr "Уроки"
+
+#: .\templates\index.html:115
+msgid "Biz bilan bog'lanish"
+msgstr "Связаться с нами"
+
+#: .\templates\index.html:181
+msgid "Bog'cha jihozlari"
+msgstr "Садик оснащен"
+
+#: .\templates\index.html:193
+msgid "Tillar"
+msgstr "Языки"
+
+#: .\templates\index.html:194
+msgid "Rus va ingliz tillari chuqur o‘rgatiladi"
+msgstr "Русский и английский языки преподаются углубленно"
+
+#: .\templates\index.html:206
+msgid "5 mahal ovqat"
+msgstr "5 разовая еда"
+
+#: .\templates\index.html:207
+msgid " 5 mahal halol ovqat farzandingiz ratsionini mazali va foydali qiladi"
+msgstr ""
+"5 разовая халяльная еда сделает рацион вашего ребенка вкусным и полезным"
+
+#: .\templates\index.html:220
+msgid "Gimnastika"
+msgstr "Гимнастерка"
+
+#: .\templates\index.html:221
+msgid "Gimnastika orqali bolajonlar salomatligi va faolligi  ta'minlanadi"
+msgstr "Гимнастика обеспечивает здоровье и активность детей"
+
+#: .\templates\index.html:233
+msgid "Kam sonli guruhlar"
+msgstr "Мало групп"
+
+#: .\templates\index.html:234
+msgid "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
+msgstr ""
+
+#: .\templates\index.html:251
+msgid ""
+"Madina Kidsland – ta'lim va mehr maskani! 🏰 Madina Kidsland – bu siz istagan "
+"va izlagan, har bir bolaga individual yondashadigan bog'cha! Bu yerda: 😊 Rus "
+"va ingliz tillari chuqur o‘rgatiladi 🧘🏻 Gimnastika orqali bolajonlar "
+"salomatligi va faolligi ta'minlanadi 💆‍♀️ Logoped va massaj xizmatlari "
+"bolajonlarimizning sog‘lom rivojlanishiga xizmat qiladi 🍛 5 mahal halol "
+"ovqat farzandingiz ratsionini mazali va foydali qiladi 👥 Kam sonli guruhlar "
+"esa har bir bola e’tiborda bo'lishini kafolatlaydi 😊 Individual yondashuv "
+"bilan har bir kichkintoy alohida qadrli bo'ladi. ➡️Shoshiling. Joylar soni "
+"cheklangan. Bugunoq ro‘yxatdan o‘ting. Farzandingizning baxtli bolaligi "
+"uchun to‘g‘ri tanlov — Madina Kidsland! 📲 Murojaat qiling:"
+msgstr ""
+"Madina Kidsland — место образования и заботы! 🏰 Madina Kidsland — это "
+"детский сад, который вы искали, с индивидуальным подходом к каждому ребёнку! "
+"Здесь: 😊 Русский и английский языки преподаются углублённо 🧘🏻 Благодаря "
+"гимнастике обеспечивается здоровье и активность детей 💆‍♀️ Услуги логопеда и "
+"массажиста способствуют здоровому развитию наших малышей 🍛 Пятиразовое "
+"халяльное питание делает рацион вашего ребёнка вкусным и полезным 👥 "
+"Малочисленные группы гарантируют внимание к каждому ребёнку 😊 Индивидуальный "
+"подход делает каждого малыша особенно ценным. ➡️ Поторопитесь. Места "
+"ограничены. Зарегистрируйтесь сегодня. Правильный выбор для счастливого "
+"детства вашего ребёнка — Madina Kidsland! 📲 Обращайтесь:"

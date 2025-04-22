@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-21 20:12+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\templates\about.html:59 .\templates\index.html:112
+#: .\templates\index.html:249
+msgid "Biz haqimizda"
+msgstr "Biz haqimizda"
+
+#: .\templates\index.html:111
+msgid "Home"
+msgstr "Home"
+
+#: .\templates\index.html:113
+msgid "Darslar"
+msgstr "Darslar"
+
+#: .\templates\index.html:115
+msgid "Biz bilan bog'lanish"
+msgstr "Biz bilan bog'lanish"
+
+#: .\templates\index.html:181
+msgid "Bog'cha jihozlari"
+msgstr "Bog'cha jihozlari"
+
+#: .\templates\index.html:193
+msgid "Tillar"
+msgstr "Tillar"
+
+#: .\templates\index.html:194
+msgid "Rus va ingliz tillari chuqur o‘rgatiladi"
+msgstr "Rus va ingliz tillari chuqur o‘rgatiladi"
+
+#: .\templates\index.html:206
+msgid "5 mahal ovqat"
+msgstr "5 mahal ovqat"
+
+#: .\templates\index.html:207
+msgid " 5 mahal halol ovqat farzandingiz ratsionini mazali va foydali qiladi"
+msgstr "5 mahal halol ovqat farzandingiz ratsionini mazali va foydali qiladi"
+
+#: .\templates\index.html:220
+msgid "Gimnastika"
+msgstr "Gimnastika"
+
+#: .\templates\index.html:221
+msgid "Gimnastika orqali bolajonlar salomatligi va faolligi  ta'minlanadi"
+msgstr "Gimnastika orqali bolajonlar salomatligi va faolligi  ta'minlanadi"
+
+#: .\templates\index.html:233
+msgid "Kam sonli guruhlar"
+msgstr "Kam sonli guruhlar"
+
+#: .\templates\index.html:234
+msgid "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
+msgstr "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
+
+#: .\templates\index.html:251
+msgid ""
+"Madina Kidsland – ta'lim va mehr maskani! 🏰 Madina Kidsland – bu siz istagan "
+"va izlagan, har bir bolaga individual yondashadigan bog'cha! Bu yerda: 😊 Rus "
+"va ingliz tillari chuqur o‘rgatiladi 🧘🏻 Gimnastika orqali bolajonlar "
+"salomatligi va faolligi ta'minlanadi 💆‍♀️ Logoped va massaj xizmatlari "
+"bolajonlarimizning sog‘lom rivojlanishiga xizmat qiladi 🍛 5 mahal halol "
+"ovqat farzandingiz ratsionini mazali va foydali qiladi 👥 Kam sonli guruhlar "
+"esa har bir bola e’tiborda bo'lishini kafolatlaydi 😊 Individual yondashuv "
+"bilan har bir kichkintoy alohida qadrli bo'ladi. ➡️Shoshiling. Joylar soni "
+"cheklangan. Bugunoq ro‘yxatdan o‘ting. Farzandingizning baxtli bolaligi "
+"uchun to‘g‘ri tanlov — Madina Kidsland! 📲 Murojaat qiling:"
+msgstr ""
+"Madina Kidsland – ta'lim va mehr maskani! 🏰 Madina Kidsland – bu siz istagan "
+"va izlagan, har bir bolaga individual yondashadigan bog'cha! Bu yerda: 😊 Rus "
+"va ingliz tillari chuqur o‘rgatiladi 🧘🏻 Gimnastika orqali bolajonlar "
+"salomatligi va faolligi ta'minlanadi 💆‍♀️ Logoped va massaj xizmatlari "
+"bolajonlarimizning sog‘lom rivojlanishiga xizmat qiladi 🍛 5 mahal halol "
+"ovqat farzandingiz ratsionini mazali va foydali qiladi 👥 Kam sonli guruhlar "
+"esa har bir bola e’tiborda bo'lishini kafolatlaydi 😊 Individual yondashuv "
+"bilan har bir kichkintoy alohida qadrli bo'ladi. ➡️Shoshiling. Joylar soni "
+"cheklangan. Bugunoq ro‘yxatdan o‘ting. Farzandingizning baxtli bolaligi "
+"uchun to‘g‘ri tanlov — Madina Kidsland! 📲 Murojaat qiling:"
