@@ -72,7 +72,7 @@ msgstr "Время"
 
 #: .\templates\classes.html:198 .\templates\index.html:330
 msgid "odamlar soni"
-msgstr "Колво детей"
+msgstr "Кол-во детей"
 
 #: .\templates\classes.html:224 .\templates\contact.html:222
 #: .\templates\index.html:356

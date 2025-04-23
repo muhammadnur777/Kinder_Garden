@@ -10,7 +10,7 @@ class SchoolClasses(models.Model):
     photo = models.ImageField(upload_to='images/')
     lesson_name = models.CharField(max_length=200)
     duration = models.IntegerField()
-    models.CharField(max_length=100, null=True, blank=True)
+    children = models.CharField(max_length=100, null=True, blank=True)
 
 class PhotoGallery(models.Model):
     photo = models.ImageField(upload_to='images/')
