@@ -27,6 +27,9 @@ TRANSLATIONS = {
 }
 
 
+def contact(request):
+    return render(request, 'contact.html')
+
 # def classes(request):
 #     lang = get_language()
 #     classes = SchoolClasses.objects.all()
