@@ -1,10 +1,10 @@
 from django.shortcuts import render
-from .models import Banner, SchoolClasses, PhotoGallery
+from .models import Banner, Classes, PhotoGallery
 from django.utils.translation import get_language
 
 def home(request):
     banners = Banner.objects.all()
-    classes = SchoolClasses.objects.all()
+    classes = Classes.objects.all()
     return render(request, 'index.html', {
         'banners': banners,
         'classes': classes
@@ -14,7 +14,7 @@ def about(request):
     return render(request, 'about.html') 
 
 def classes(request):
-    classes = SchoolClasses.objects.all()
+    classes = Classes.objects.all()
     return render(request, 'classes.html', {
         'classes': classes
     })   

@@ -1,6 +1,6 @@
 from modeltranslation.translator import register, TranslationOptions
-from .models import SchoolClasses
+from .models import Classes
 
-@register(SchoolClasses)
+@register(Classes)
 class SchoolClassesTranslationOptions(TranslationOptions):
     fields = ('lesson_name',)

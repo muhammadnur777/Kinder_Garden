@@ -6,7 +6,7 @@ class Banner(models.Model):
     banner_image = models.ImageField(upload_to='images/', )
 
 
-class SchoolClasses(models.Model):
+class Classes(models.Model):
     photo = models.ImageField(upload_to='images/')
     lesson_name = models.CharField(max_length=200)
     duration = models.IntegerField()
