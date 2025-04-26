@@ -14,11 +14,3 @@ class BannerAdmin(admin.ModelAdmin):
 class SchoolClassesAdmin(admin.ModelAdmin):
     list_display = ('lesson_name', )
 
-
-
-
-
-
-
-
-
