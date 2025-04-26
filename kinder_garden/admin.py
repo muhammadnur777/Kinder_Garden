@@ -1,5 +1,9 @@
 from django.contrib import admin
-from .models import Banner, Classes
+from .models import Classes, Banner, PhotoGallery
+
+@admin.site.register(Banner)
+
+
 
 
 

@@ -1,6 +1,7 @@
 from django.db import models
 
-# Create your models here.
+class Banner(models.Model):
+    banner_image = models.ImageField(upload_to='images/')
 
 
 class Classes(models.Model):
