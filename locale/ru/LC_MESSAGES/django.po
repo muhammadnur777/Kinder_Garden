@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-23 19:22+0500\n"
+"POT-Creation-Date: 2025-04-28 19:39+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,6 +50,11 @@ msgstr ""
 "ограничены. Зарегистрируйтесь сегодня. Правильный выбор для счастливого "
 "детства вашего ребёнка — Madina Kidsland! 📲 Обращайтесь:"
 
+#: .\templates\about.html:234 .\templates\classes.html:224
+#: .\templates\contact.html:222 .\templates\index.html:356
+msgid "Aloqada bolish"
+msgstr "Быть на связи"
+
 #: .\templates\classes.html:111 .\templates\contact.html:122
 #: .\templates\index.html:111
 msgid "Home"
@@ -66,18 +71,11 @@ msgstr "Уроки"
 msgid "Biz bilan bog'lanish"
 msgstr "Связаться с нами"
 
-#: .\templates\classes.html:192 .\templates\index.html:324
-msgid "Voxti"
-msgstr "Время"
+
 
 #: .\templates\classes.html:198 .\templates\index.html:330
 msgid "odamlar soni"
 msgstr "Кол-во детей"
-
-#: .\templates\classes.html:224 .\templates\contact.html:222
-#: .\templates\index.html:356
-msgid "Aloqada bolish"
-msgstr "Быть на связи"
 
 #: .\templates\contact.html:181
 msgid "Aloqada Bo'lish"
@@ -125,3 +123,7 @@ msgid "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
 msgstr ""
 "Небольшие группы гарантируют, что каждому ребенку будет уделено "
 "индивидуальное внимание"
+
+#: .\templates\index.html:324
+msgid "Vaqti"
+msgstr "Время"

@@ -6,7 +6,7 @@ from .models import Classes, Banner, PhotoGallery
 
 @admin.register(Banner)
 class BannerAdmin(admin.ModelAdmin):
-    pass
+    list_display = 'banner_image',
 
 
 

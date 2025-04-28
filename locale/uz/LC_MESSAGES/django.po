@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-23 19:22+0500\n"
+"POT-Creation-Date: 2025-04-28 19:39+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,6 +48,11 @@ msgstr ""
 "cheklangan. Bugunoq ro‘yxatdan o‘ting. Farzandingizning baxtli bolaligi "
 "uchun to‘g‘ri tanlov — Madina Kidsland! 📲 Murojaat qiling:"
 
+#: .\templates\about.html:234 .\templates\classes.html:224
+#: .\templates\contact.html:222 .\templates\index.html:356
+msgid "Aloqada bolish"
+msgstr "Aloqada bolish"
+
 #: .\templates\classes.html:111 .\templates\contact.html:122
 #: .\templates\index.html:111
 msgid "Home"
@@ -64,18 +69,11 @@ msgstr "Darslar"
 msgid "Biz bilan bog'lanish"
 msgstr "Biz bilan bog'lanish"
 
-#: .\templates\classes.html:192 .\templates\index.html:324
-msgid "Voxti"
-msgstr "Voxti"
+
 
 #: .\templates\classes.html:198 .\templates\index.html:330
 msgid "odamlar soni"
 msgstr "odamlar soni"
-
-#: .\templates\classes.html:224 .\templates\contact.html:222
-#: .\templates\index.html:356
-msgid "Aloqada bolish"
-msgstr "Aloqada bolish"
 
 #: .\templates\contact.html:181
 msgid "Aloqada Bo'lish"
@@ -120,3 +118,7 @@ msgstr "Kam sonli guruhlar"
 #: .\templates\index.html:234
 msgid "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
 msgstr "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
+
+#: .\templates\index.html:324
+msgid "Vaqti"
+msgstr "Vaqti"
