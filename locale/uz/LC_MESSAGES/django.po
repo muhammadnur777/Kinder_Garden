@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-28 19:39+0500\n"
+"POT-Creation-Date: 2025-04-30 20:03+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,13 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: .\templates\about.html:114 .\templates\about.html:173
-#: .\templates\classes.html:112 .\templates\contact.html:123
-#: .\templates\index.html:112 .\templates\index.html:249
+#: .\templates\about.html:125 .\templates\about.html:184
+#: .\templates\classes.html:121 .\templates\contact.html:132
+#: .\templates\index.html:121 .\templates\index.html:258
 msgid "Biz haqimizda"
 msgstr "Biz haqimizda"
 
-#: .\templates\about.html:175 .\templates\index.html:251
+#: .\templates\about.html:126 .\templates\classes.html:122
+#: .\templates\classes.html:180 .\templates\contact.html:133
+#: .\templates\index.html:122 .\templates\index.html:312
+msgid "Darslar"
+msgstr "Darslar"
+
+#: .\templates\about.html:128 .\templates\classes.html:124
+#: .\templates\contact.html:135 .\templates\index.html:124
+msgid "Biz bilan bog'lanish"
+msgstr "Biz bilan bog'lanish"
+
+#: .\templates\about.html:186 .\templates\index.html:260
 msgid ""
 "Madina Kidsland – ta'lim va mehr maskani! 🏰 Madina Kidsland – bu siz istagan "
 "va izlagan, har bir bolaga individual yondashadigan bog'cha! Bu yerda: 😊 Rus "
@@ -48,77 +59,68 @@ msgstr ""
 "cheklangan. Bugunoq ro‘yxatdan o‘ting. Farzandingizning baxtli bolaligi "
 "uchun to‘g‘ri tanlov — Madina Kidsland! 📲 Murojaat qiling:"
 
-#: .\templates\about.html:234 .\templates\classes.html:224
-#: .\templates\contact.html:222 .\templates\index.html:356
+#: .\templates\about.html:245 .\templates\classes.html:233
+#: .\templates\contact.html:231 .\templates\index.html:365
 msgid "Aloqada bolish"
 msgstr "Aloqada bolish"
 
-#: .\templates\classes.html:111 .\templates\contact.html:122
-#: .\templates\index.html:111
+#: .\templates\classes.html:120 .\templates\contact.html:131
+#: .\templates\index.html:120
 msgid "Home"
 msgstr "Home"
 
-#: .\templates\classes.html:113 .\templates\classes.html:171
-#: .\templates\contact.html:124 .\templates\index.html:113
-#: .\templates\index.html:303
-msgid "Darslar"
-msgstr "Darslar"
+#: .\templates\classes.html:201
+msgid "Voxti"
+msgstr ""
 
-#: .\templates\classes.html:115 .\templates\contact.html:126
-#: .\templates\index.html:115
-msgid "Biz bilan bog'lanish"
-msgstr "Biz bilan bog'lanish"
-
-
-
-#: .\templates\classes.html:198 .\templates\index.html:330
+#: .\templates\classes.html:207 .\templates\index.html:339
 msgid "odamlar soni"
 msgstr "odamlar soni"
 
-#: .\templates\contact.html:181
+#: .\templates\contact.html:190
 msgid "Aloqada Bo'lish"
 msgstr "Aloqada Bo'lish"
 
-#: .\templates\contact.html:189
+#: .\templates\contact.html:198
 msgid "Beruniy shoh ko'chasi 8A, Тоshkent, Toshkent, Узбекистан"
 msgstr "Beruniy shoh ko'chasi 8A, Тоshkent, Toshkent, Узбекистан"
 
-#: .\templates\index.html:181
+#: .\templates\index.html:190
 msgid "Bog'cha jihozlari"
 msgstr "Bog'cha jihozlari"
 
-#: .\templates\index.html:193
+#: .\templates\index.html:202
 msgid "Tillar"
 msgstr "Tillar"
 
-#: .\templates\index.html:194
+#: .\templates\index.html:203
 msgid "Rus va ingliz tillari chuqur o‘rgatiladi"
 msgstr "Rus va ingliz tillari chuqur o‘rgatiladi"
 
-#: .\templates\index.html:206
+#: .\templates\index.html:215
 msgid "5 mahal ovqat"
 msgstr "5 mahal ovqat"
 
-#: .\templates\index.html:207
+#: .\templates\index.html:216
 msgid " 5 mahal halol ovqat farzandingiz ratsionini mazali va foydali qiladi"
 msgstr "5 mahal halol ovqat farzandingiz ratsionini mazali va foydali qiladi"
 
-#: .\templates\index.html:220
+#: .\templates\index.html:229
 msgid "Gimnastika"
 msgstr "Gimnastika"
 
-#: .\templates\index.html:221
+#: .\templates\index.html:230
 msgid "Gimnastika orqali bolajonlar salomatligi va faolligi  ta'minlanadi"
 msgstr "Gimnastika orqali bolajonlar salomatligi va faolligi  ta'minlanadi"
 
-#: .\templates\index.html:233
+#: .\templates\index.html:242
 msgid "Kam sonli guruhlar"
 msgstr "Kam sonli guruhlar"
 
-#: .\templates\index.html:234
+#: .\templates\index.html:243
 msgid "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
 msgstr "Kam sonli guruhlar esa  har bir bola e’tiborda bo'lishini kafolatlaydi"
 
-#: .\templates\index.html:324
+#: .\templates\index.html:333
 msgid "Vaqti"
 msgstr "Vaqti"
